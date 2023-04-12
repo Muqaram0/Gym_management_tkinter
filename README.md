@@ -1,5 +1,5 @@
 
-Gym management system
+<h1>Gym management system</h1>
 
 The program provides a streamlined solution for gym management saving time and resources. With minimal effort the software can manage the registration processes for gyms (adding the data of members updating the data deleting the data predicting the cost of a service of selected duration)
 ## Screenshots
